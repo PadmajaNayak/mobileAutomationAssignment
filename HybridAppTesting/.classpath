@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-11.0.10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PadmajaNayak/Downloads/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PadmajaNayak/Downloads/java-client-7.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PadmajaNayak/Downloads/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PadmajaNayak/Downloads/testng-6.9.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
